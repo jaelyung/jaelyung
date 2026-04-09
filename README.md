@@ -38,5 +38,3 @@ These days, I'm building apps and experimenting with ideas to make language lear
 - 🧠 Exploring ways to make learning part of everyday life
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaelyung&layout=compact&theme=default)](https://github.com/jaelyung)
